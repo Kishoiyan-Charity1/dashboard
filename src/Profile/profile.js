@@ -58,7 +58,7 @@ const Profile= ()=>{
                     <div className="sim">Phone</div> 
 
                     <img src="/images/phone.png"className="phon" alt=""/>
-                    <input type="text" placeholder="0717867280" readOnly="true" id="random" className="phonenum" const />
+                    <input type="text" placeholder="0717867280"  id="random" className="phonenum" const />
                     
                 </div>
             </div>
@@ -68,7 +68,7 @@ const Profile= ()=>{
                     <div className="sim">Email</div> 
 
                     <img src="/images/email.png"className="mail" alt=""/>
-                    <input type="text" placeholder="wanadamu@gmail.com" readOnly="false" className="mailnum"/>
+                    <input type="text" placeholder="wanadamu@gmail.com"  className="mailnum"/>
                     
                 </div>
             </div>
@@ -78,7 +78,7 @@ const Profile= ()=>{
                     <div className="sim">Address</div> 
 
                     <img src="/images/location.png"className="adds" alt=""/>
-                    <input type="text" placeholder="Nairobi Karen" readOnly="true"  className="adress"/>
+                    <input type="text" placeholder="Nairobi Karen"   className="adress"/>
                     
                 </div>
             </div>
@@ -90,7 +90,7 @@ const Profile= ()=>{
                     <div className="sim">Website</div> 
 
                     <img src="/images/web.png"className="webs" alt="" />
-                    <input type="" placeholder="https://hapakenya.com-wanadamu" readOnly="true"  className="webname" />
+                    <input type="" placeholder="https://hapakenya.com-wanadamu"   className="webname" />
                     
                     
                     
@@ -102,7 +102,7 @@ const Profile= ()=>{
                 <div className="bio">
                     <div className="sim">Bio</div> 
 
-                    <input type="text" placeholder="Wanadamu helps people  to search for the right blood group from wiiling donors database and make requests."  className="bioname" readOnly="true"/>    
+                    <input type="text" placeholder="Wanadamu helps people  to search for the right blood group from wiiling donors database and make requests."  className="bioname" />    
                     
                 </div>
             </div>
